@@ -6,3 +6,11 @@ body {
 a {
   color: #00B7FF;
 }
+
+.christmas-button {
+  background: red;
+  color: white;
+  font-size: 52px;
+  transform: rotate(30deg);
+}
+
